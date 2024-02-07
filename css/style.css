@@ -71,3 +71,10 @@
 
     align-self: flex-end;/*Allows the default alignment along the cross axis to be overridden for individual flex items. Er fole sudho ai item ta sese maje kinare niye jaoa jay.*/
 }
+
+#item-55{
+
+    flex: 2 2 150px;/*Specifies the components of a flexible length: the flex grow factor and flex shrink factor, and the flex basis. Orthat flex-grow, lex-shrink, flex-basis 3 ta ak e item a dorkar porle alada vabe na likhe ak sathe flex er moddhe lekha jay .. */
+
+    align-self: flex-end;/*Allows the default alignment along the cross axis to be overridden for individual flex items. Er fole sudho ai item ta sese maje kinare niye jaoa jay.*/
+}
